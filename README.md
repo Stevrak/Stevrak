@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Stevrak
 - 👀 I’m interested in software dev (Node.JS, MEAN stack)
-- 🌱 I’m currently learning unit testing
 
 - Find me at StephenDOTJoysATgmail.com
 <!---
